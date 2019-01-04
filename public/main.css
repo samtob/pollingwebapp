@@ -1,0 +1,8 @@
+html, body {
+    margin: 0 auto;
+    list-style: none;
+    text-decoration: none;
+}
+#chartContainer1 {
+    padding: 10px 50px;
+}
